@@ -1,0 +1,127 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\EQUIPO-22\\source\\repos\\appBluetooth\\appBluetooth\\appBluetooth.Android\\appBluetooth.Android.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\EQUIPO-22\\source\\repos\\appBluetooth\\appBluetooth\\appBluetooth.Android\\appBluetooth.Android.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\EQUIPO-22\\source\\repos\\appBluetooth\\appBluetooth\\appBluetooth.Android\\appBluetooth.Android.csproj",
+        "projectName": "appBluetooth.Android",
+        "projectPath": "C:\\Users\\EQUIPO-22\\source\\repos\\appBluetooth\\appBluetooth\\appBluetooth.Android\\appBluetooth.Android.csproj",
+        "packagesPath": "C:\\Users\\EQUIPO-22\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\EQUIPO-22\\source\\repos\\appBluetooth\\appBluetooth\\appBluetooth.Android\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\EQUIPO-22\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "monoandroid12.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "monoandroid12.0": {
+            "projectReferences": {
+              "C:\\Users\\EQUIPO-22\\source\\repos\\appBluetooth\\appBluetooth\\appBluetooth\\appBluetooth.csproj": {
+                "projectPath": "C:\\Users\\EQUIPO-22\\source\\repos\\appBluetooth\\appBluetooth\\appBluetooth\\appBluetooth.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "monoandroid12.0": {
+          "dependencies": {
+            "Plugin.BluetoothClassic": {
+              "target": "Package",
+              "version": "[1.1.5, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.7.0, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[5.0.0.2196, )"
+            }
+          }
+        }
+      }
+    },
+    "C:\\Users\\EQUIPO-22\\source\\repos\\appBluetooth\\appBluetooth\\appBluetooth\\appBluetooth.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\EQUIPO-22\\source\\repos\\appBluetooth\\appBluetooth\\appBluetooth\\appBluetooth.csproj",
+        "projectName": "appBluetooth",
+        "projectPath": "C:\\Users\\EQUIPO-22\\source\\repos\\appBluetooth\\appBluetooth\\appBluetooth\\appBluetooth.csproj",
+        "packagesPath": "C:\\Users\\EQUIPO-22\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\EQUIPO-22\\source\\repos\\appBluetooth\\appBluetooth\\appBluetooth\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\EQUIPO-22\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Plugin.BluetoothClassic": {
+              "target": "Package",
+              "version": "[1.1.5, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.7.0, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[5.0.0.2196, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

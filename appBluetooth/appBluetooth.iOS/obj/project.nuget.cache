@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "kjspZg26lQ4NyhkLqEOpv7OC23s3tYUqxz2dMGiJudGKY9vxWrQzqxRI87+mWJrB17YvFAUEvQDYuIY4KWLPGQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\EQUIPO-22\\source\\repos\\appBluetooth\\appBluetooth\\appBluetooth.iOS\\appBluetooth.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\EQUIPO-22\\.nuget\\packages\\plugin.bluetoothclassic\\1.1.5\\plugin.bluetoothclassic.1.1.5.nupkg.sha512",
+    "C:\\Users\\EQUIPO-22\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\EQUIPO-22\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\EQUIPO-22\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\EQUIPO-22\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.3\\system.runtime.compilerservices.unsafe.4.5.3.nupkg.sha512",
+    "C:\\Users\\EQUIPO-22\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\EQUIPO-22\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
